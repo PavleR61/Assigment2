@@ -1,0 +1,20 @@
+public class JavaHelloWorld
+
+{
+
+	
+	public static void main(String[] args)
+	
+	{
+        
+        
+		for (int a=0;  a <36; a++)
+		{
+			System.out.println("HelloWorld");
+		}  
+
+        
+
+
+	}
+}
